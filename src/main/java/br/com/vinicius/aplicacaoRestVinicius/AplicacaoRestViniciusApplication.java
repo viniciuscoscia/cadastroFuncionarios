@@ -1,4 +1,4 @@
-package br.com.vinicius.aplicacaoRestVinicius.aplicacaoRestVinicius;
+package br.com.vinicius.aplicacaoRestVinicius;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
